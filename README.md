@@ -27,3 +27,11 @@ The model achieves high accuracy and correctly classifies most samples.
 - numpy
 - matplotlib
 - scikit-learn
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Open the notebook:
+   jupyter notebook IrisClassification.ipynb
